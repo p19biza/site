@@ -15,3 +15,10 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την ενεργοποίηση του διακόπτη (θέση ON) να εμφανίζεται στην οθόνη το μήνυμα "LIGHT ON". Για το σκοπό αυτό χρησιμοποιείστε κώδικα javascript.
+
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="p19biza" data-slug-hash="dyXeELM" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Switch">
+  <span>See the Pen <a href="https://codepen.io/p19biza/pen/dyXeELM">
+  Switch</a> by Φίλιππος Μπιζάκης (<a href="https://codepen.io/p19biza">@p19biza</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
